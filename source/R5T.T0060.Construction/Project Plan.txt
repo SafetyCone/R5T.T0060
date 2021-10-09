@@ -1,0 +1,3 @@
+R5T.T0060.Construction - Construction project for IPredicateProvider, IModifierProvider, and other high-level function related extension method bases..
+
+GOALS:
