@@ -9,7 +9,7 @@ namespace R5T.T0060
     /// Base for extensions ...
     /// </summary>
     [ExtensionMethodBaseMarker]
-    public interface ISelectorProivder
+    public interface ISelectorProvider
     {
     }
 }
